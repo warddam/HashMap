@@ -2,8 +2,7 @@ package WalkerCC_CompSci;
 import java.io.*;
 import java.util.*;
 
-// Main class
-// To add elements to HashMap
+
 class Main {
 
 
@@ -21,9 +20,9 @@ class Main {
         hmName.put(2, "Snoop Dog");
         hmName.put(3, "Auntie Ann");
 
-        hmYear.put(4, "1956");
-        hmYear.put(5, "1970");
-        hmYear.put(6, "195");
+        hmYear.put(1, "1956");
+        hmYear.put(2, "1970");
+        hmYear.put(3, "195");
 
 
         System.out.println("Family Member Names are : "
